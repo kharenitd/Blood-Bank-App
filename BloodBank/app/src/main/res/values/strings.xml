@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="login">Login</string>
+    <string name="ergister">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="spinner_title">Select Blood Group</string>
+</resources>
